@@ -1,0 +1,20 @@
+{
+  "name": "ethereum-solidity-course-updated-code",
+  "version": "1.0.1",
+  "description": "**Update In Progress...**\r _Hi all, it's been a long time coming but I've finally gotten around to putting some time into bringing this repo up-to-date. I have started by renaming the default branch from `master` to `main`, and I created a new branch named [`update_solidity_0_8`](https://github.com/owanhunte/ethereum-solidity-course-updated-code/tree/update_solidity_0_8) which I'll be committing all the updated code to. As I make progress, I'll be merging this branch back into the `main` branch._",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive test",
+    "bump-version": "npm version patch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maverickpsyche/ethereum-solidity-course-updated-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maverickpsyche/ethereum-solidity-course-updated-code/issues"
+  },
+  "homepage": "https://github.com/maverickpsyche/ethereum-solidity-course-updated-code#readme"
+}
